@@ -13,8 +13,7 @@ function Header() {
     <header className="header">
       <nav className="header__nav">
         <NavLink to="/" className="header__logo" onClick={closeMenu}>
-          <span className="header__logo-main">Tres Cerros</span>
-          <span className="header__logo-sub">Cabañas</span>
+   <img src="../src/assets/CabañasLogotipo.png" alt="" width={"70rem"}/>
         </NavLink>
 
         <button
