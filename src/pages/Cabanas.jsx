@@ -1,30 +1,31 @@
 import CabanaCard from "../components/CabanaCard/CabanaCard";
 import "./Cabanas.css";
 
+
 const cabanas = [
   {
     id: "cabana-1",
     title: "Cabaña para descansar entre naturaleza y tranquilidad",
-    location: "Cabañas Tres Cerros",
+    location: "Cabaña Colibri",
     rating: "5.0",
     price: "45.000",
-    image: "/images/cabana-1.jpg",
+    image: "/src/assets/img/COLIBRI/FrenteColibri.jpg",  
   },
   {
     id: "cabana-2",
     title: "Cabaña familiar con vista al entorno natural",
-    location: "Cabañas Tres Cerros",
+    location: "Cabaña Hornero",
     rating: "5.0",
-    price: "55.000",
-    image: "/images/cabana-2.jpg",
+    price: "75.000",
+    image: "/src/assets/img/HORNERO/FrenteHornero.jpg",  
   },
   {
     id: "cabana-3",
     title: "Cabaña equipada para una estadía cómoda",
-    location: "Cabañas Tres Cerros",
+    location: "Cabaña Jilguero",
     rating: "5.0",
     price: "50.000",
-    image: "/images/cabana-3.jpg",
+    image: "/src/assets/img/JILGUERO/FrenteJilguero.jpg",   
   },
 ];
 

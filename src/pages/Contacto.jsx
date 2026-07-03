@@ -47,7 +47,7 @@ function Contacto() {
               maxLength="30"
               pattern="[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+"
               title="Ingresá solo letras. Mínimo 2 caracteres."
-              placeholder="Ej: Bocanegra"
+              placeholder="Ej: Gonzales"
             />
           </div>
 
