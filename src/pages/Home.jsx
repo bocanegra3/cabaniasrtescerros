@@ -15,7 +15,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/src/assets/img/hme/PiletayHorizonte.jpg"
+            src="../../public/img/hme/PiletayHorizonte.jpg"
             alt="Cabaña Tres Cerros"
           />
 
@@ -28,7 +28,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/src/assets/img/hme/PiletaMejorFoto.jpg"
+            src="../../public/img/hme/PiletaMejorFoto.jpg"
             alt="Interior de cabaña"
           />
 
@@ -41,7 +41,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/src/assets/img/hme/PiletaFrente.jpg"
+            src="../../public/img/hme/PiletaFrente.jpg"
             alt="Paisaje natural"
           />
 

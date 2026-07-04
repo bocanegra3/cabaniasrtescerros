@@ -4,7 +4,7 @@ const servicios = [
   {
     id: 1,
     title: "Desayuno seco",
-    image: "/src/assets/img/DEMAS/DesayunoSeco.png",
+    image: "../../public/img/DEMAS/DesayunoSeco.png",
     description:
       "Incluye una selección simple para comenzar el día: infusiones, panificados y productos secos.",
     details: ["Disponible de 8:00 a 10:30 hs", "Se entrega en la cabaña"],
@@ -12,7 +12,7 @@ const servicios = [
   {
     id: 2,
     title: "Pileta acondicionada",
-    image: "/src/assets/img/DEMAS/Pileta.png",
+    image: "../../public/img/DEMAS/Pileta.png",
     description:
       "Espacio ideal para relajarse y disfrutar al aire libre durante la estadía.",
     details: ["Con sombrillas", "Sector acondicionado para descanso"],
@@ -20,7 +20,7 @@ const servicios = [
   {
     id: 3,
     title: "Entretenimiento",
-    image: "/src/assets/img/DEMAS/Entretenimiento.png",
+    image: "../../public/img/DEMAS/Entretenimiento.png",
     description:
       "Opciones pensadas para disfrutar dentro de la cabaña en momentos de descanso.",
     details: ["Juegos de mesa", "Plataforma Netflix disponible"],
