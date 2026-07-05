@@ -5,27 +5,27 @@ import "./Cabanas.css";
 const cabanas = [
   {
     id: "cabana-1",
-    title: "Cabaña para descansar entre naturaleza y tranquilidad",
+    title: "Cabaña hasta 3 personas",
     location: "Cabaña Colibri",
     rating: "5.0",
-    price: "45.000",
-    image: "../../public/img/COLIBRI/FrenteColibri.jpg",  
+    price: "75.000",
+    image: "../../public/img/COLIBRI/FrenteColibri.png",  
   },
   {
     id: "cabana-2",
-    title: "Cabaña familiar con vista al entorno natural",
+    title: "Cabaña familiar hasta 8 personas",
     location: "Cabaña Hornero",
     rating: "5.0",
-    price: "75.000",
-    image: "../../public/img/HORNERO/FrenteHornero.jpg",  
+    price: "95.000",
+    image: "../../public/img/HORNERO/FrenteHornero.png",  
   },
   {
     id: "cabana-3",
-    title: "Cabaña equipada para una estadía cómoda",
+    title: "Cabaña ideal para 2 personas",
     location: "Cabaña Jilguero",
     rating: "5.0",
-    price: "50.000",
-    image: "../../public/img/JILGUERO/FrenteJilguero.jpg",   
+    price: "70.000",
+    image: "../../public/img/JILGUERO/FrenteJilguero.png",   
   },
 ];
 

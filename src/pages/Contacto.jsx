@@ -105,9 +105,9 @@ function Contacto() {
             por WhatsApp.
           </p>
 
-          <div className="contacto-info__phone">
-            <span>Celular de contacto</span>
-            <strong>+54 9 3546 123456</strong>
+          <div className="contacto-info__phone">   
+            <span>Celular de contacto</span>            
+            <strong>011 15-4192-3862</strong>
           </div>
 
           <div className="contacto-info__qr-box">

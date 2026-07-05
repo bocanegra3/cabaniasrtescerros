@@ -24,9 +24,7 @@ function CabanaCard({ cabana }) {
         <p className="cabana-card__price">
           Desde ${cabana.price}
           <span> por noche</span>
-        </p>
-
-        <p className="cabana-card__promo">Consulta disponible por WhatsApp</p>
+        </p>    
 
         <Link to={`/cabanas/${cabana.id}`} className="cabana-card__button">
           Ver detalle

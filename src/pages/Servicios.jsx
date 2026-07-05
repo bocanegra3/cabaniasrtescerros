@@ -15,7 +15,7 @@ const servicios = [
     image: "../../public/img/DEMAS/Pileta.png",
     description:
       "Espacio ideal para relajarse y disfrutar al aire libre durante la estadía.",
-    details: ["Con sombrillas", "Sector acondicionado para descanso"],
+    details: ["Con sombrillas", "Agua Climatizada", "Con reposeras"],
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const servicios = [
     image: "../../public/img/DEMAS/Entretenimiento.png",
     description:
       "Opciones pensadas para disfrutar dentro de la cabaña en momentos de descanso.",
-    details: ["Juegos de mesa", "Plataforma Netflix disponible"],
+    details: ["Juegos de mesa", "Plataforma Netflix disponible", "Mesa de metegol"],
   },
 ];
 

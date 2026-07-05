@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route , Navigate  } from "react-router-dom";
 
 import Header from "./components/Header/Header";
 import WhatsAppButton from "./components/WhatsAppButton/WhatsAppButton";
+import BotonFacebook from "./components/BotonFacebook/BotonFacebook";
 
 import Home from "./pages/Home";
 import Cabanas from "./pages/Cabanas";
@@ -26,6 +27,7 @@ function App() {
         </Routes>
       </main>
 
+      <BotonFacebook />
       <WhatsAppButton />
     </BrowserRouter>
   );

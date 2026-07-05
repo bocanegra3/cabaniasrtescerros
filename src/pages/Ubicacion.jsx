@@ -15,8 +15,7 @@ function Ubicacion() {
             </p>
 
             <p>
-              Estamos ubicados cerca de Los Reartes, a pocos kilómetros de Villa
-              General Belgrano y otros puntos turísticos de la zona.
+              Es un complejo de cabañas con excelente ubicación a tan solo 50 metros de la ruta S-271 y a muy pocas cuadras del Casco Histórico del pueblo.
             </p>
 
             <p>
