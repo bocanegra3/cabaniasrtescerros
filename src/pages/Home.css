@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .celular {
+    display: none;
+  }
+}
+@media (mmin-width: 1024px) {
+  .celular {
+    display: none;
+  }
+}
