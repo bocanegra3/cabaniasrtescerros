@@ -12,19 +12,19 @@ const detallesCabanas = {
       "Cabaña cómoda rodeada de naturaleza, equipada con cocina, baño privado, parrilla y espacio de descanso.",
     imagenes: [
       {
-        src: "/public/img/COLIBRI/FrenteColibri.png",
+        src: "/img/COLIBRI/FrenteColibri.png",
         alt: "Frente de la Cabaña Colibrí",
       },
       {
-        src: "/public/img/COLIBRI/CabañaColibriInterior.png",
+        src: "/img/COLIBRI/CabañaColibriInterior.png",
         alt: "Interior de la Cabaña Colibrí",
       },
       {
-        src: "/public/img/COLIBRI/CabañaColibriInteriorDos.png",
+        src: "/img/COLIBRI/CabañaColibriInteriorDos.png",
         alt: "Habitación de la Cabaña Colibrí",
       },
             {
-        src: "/public/img/COLIBRI/CabañaColibriInteriorTres.png",
+        src: "/img/COLIBRI/CabañaColibriInteriorTres.png",
         alt: "Habitación de la Cabaña Colibrí",
       },
     ],
@@ -37,15 +37,15 @@ const detallesCabanas = {
       "Una cabaña amplia para familias, con habitaciones cómodas, cocina equipada, parrilla y galería.",
     imagenes: [
       {
-        src: "/public/img/HORNERO/FrenteHornero.png",
+        src: "/img/HORNERO/FrenteHornero.png",
         alt: "Frente de la Cabaña Hornero",
       },
       {
-        src: "/public/img/HORNERO/InteriorHornero.png",
+        src: "/img/HORNERO/InteriorHornero.png",
         alt: "Interior de la Cabaña Hornero",
       },
       {
-        src: "/public/img/HORNERO/ParrillaHornero.png",
+        src: "/img/HORNERO/ParrillaHornero.png",
         alt: "Habitación de la Cabaña Hornero",
       },
     ],
@@ -58,27 +58,27 @@ const detallesCabanas = {
       "Cabaña equipada para disfrutar una estadía tranquila, con cocina, baño privado y acceso a las instalaciones.",
     imagenes: [
       {
-        src: "/public/img/JILGUERO/FrenteJilguero.png",
+        src: "/img/JILGUERO/FrenteJilguero.png",
         alt: "Frente de la Cabaña Jilguero",
       },
       {
-        src: "/public/img/JILGUERO/InteriorJilguero.png",
+        src: "/img/JILGUERO/InteriorJilguero.png",
         alt: "Interior de la Cabaña Jilguero",
       },
       {
-        src: "/public/img/JILGUERO/CocinaJilguero.png",
+        src: "/img/JILGUERO/CocinaJilguero.png",
         alt: "Cocina de la Cabaña Jilguero",
       },
       {
-        src: "/public/img/JILGUERO/DormitorioJilguero.png",
+        src: "/img/JILGUERO/DormitorioJilguero.png",
         alt: "Habitación de la Cabaña Jilguero",
       },
       {
-        src: "/public/img/JILGUERO/InteriorJilgueroDos.png",
+        src: "/img/JILGUERO/InteriorJilgueroDos.png",
         alt: "Interior de la Cabaña Jilguero",
       },
       {
-        src: "/public/img/JILGUERO/BañoJilguero.png",
+        src: "/img/JILGUERO/BañoJilguero.png",
         alt: "Baño de la Cabaña Jilguero",
       },
     ],
