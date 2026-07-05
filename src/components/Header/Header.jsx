@@ -13,7 +13,7 @@ function Header() {
     <header className="header">
       <nav className="header__nav">
         <NavLink to="/" className="header__logo" onClick={closeMenu}>
-   <img src="../../public/CabañasLogotipo.png" alt="" width={"70rem"}/>
+   <img src="/public/CabañasLogotipo.png" alt="" width={"70rem"}/>
         </NavLink>
 
         <button
