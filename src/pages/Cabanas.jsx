@@ -9,7 +9,7 @@ const cabanas = [
     location: "Cabaña Colibri",
     rating: "5.0",
     price: "75.000",
-    image: "/public/img/COLIBRI/FrenteColibri.png",  
+    image: "public/img/COLIBRI/FrenteColibri.png",  
   },
   {
     id: "cabana-2",
@@ -17,7 +17,7 @@ const cabanas = [
     location: "Cabaña Hornero",
     rating: "5.0",
     price: "95.000",
-    image: "/public/img/HORNERO/FrenteHornero.png",  
+    image: "public/img/HORNERO/FrenteHornero.png",  
   },
   {
     id: "cabana-3",
@@ -25,7 +25,7 @@ const cabanas = [
     location: "Cabaña Jilguero",
     rating: "5.0",
     price: "70.000",
-    image: "/public/img/JILGUERO/FrenteJilguero.png",   
+    image: "public/img/JILGUERO/FrenteJilguero.png",   
   },
 ];
 
