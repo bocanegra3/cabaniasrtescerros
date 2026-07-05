@@ -25,7 +25,7 @@ const cabanas = [
     location: "Cabaña Jilguero",
     rating: "5.0",
     price: "70.000",
-    image: "public/img/JILGUERO/FrenteJilguero.png",   
+    image: "../public/img/JILGUERO/FrenteJilguero.png",   
   },
 ];
 
