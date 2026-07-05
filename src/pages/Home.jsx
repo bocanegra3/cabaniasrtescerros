@@ -9,8 +9,7 @@ function Home() {
        <h1 className="section-title">Cabañas Tres Cerros</h1>
 
       <p className="section-text">
-        Un lugar pensado para descansar, conectar con la naturaleza y disfrutar
-        la tranquilidad de las sierras.
+        Este es un ALOJAMIENTO HABILITADO. Infraestructura turística para garantizar la mejor experiencia durante tu estadía. Establecimiento totalmente equipado en un cálido ambiente con vistas únicas que te dejarán con la boca abierta. Estamos preparados para recibirte como te mereces. Es un complejo de cabañas con excelente ubicación a tan solo 50 metros de la ruta S-271 y a muy pocas cuadras del Casco Histórico del pueblo. Las cabañas cuentan con todas las comodidades y un hermoso parque.
       </p>
  </div>
       <Carousel>
